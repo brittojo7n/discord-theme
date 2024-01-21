@@ -3,8 +3,8 @@
  * @description A darkened discord theme.
  * @author refact0r
  * @version 1.6.2
- * @source https://github.com/refact0r/midnight-discord
- * @authorId 508863359777505290
+ * @source https://github.com/brittojo7n/discord-theme/
+ * @authorId 886905236474716221
 */
 
 /* IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!!! */
@@ -17,7 +17,7 @@
 	--font: 'figtree';
 
 	/* top left corner text */
-	--corner-text: 'Midnight';
+	--corner-text: '@BRITTOJO7N';
 
 	/* color of status indicators and window controls */
 	--online-indicator: hsl(130, 60%, 60%); /* change to #23a55a for default green */
