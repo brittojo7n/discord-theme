@@ -20,7 +20,7 @@
 	--corner-text: 'Midnight';
 
 	/* color of status indicators and window controls */
-	--online-indicator: var(--accent-2); /* change to #23a55a for default green */
+	--online-indicator: hsl(130, 60%, 60%); /* change to #23a55a for default green */
 	--dnd-indicator: hsl(340, 60%, 60%); /* change to #f13f43 for default red */
 	--idle-indicator: hsl(50, 60%, 60%); /* change to #f0b232 for default yellow */
 
@@ -66,8 +66,8 @@
 
 	/* direct messages moon icon */
 	/* change to block to show, none to hide */
-	--discord-icon: none; /* discord icon */
-	--moon-icon: block; /* moon icon */
+	--discord-icon: block; /* discord icon */
+	--moon-icon: none; /* moon icon */
 	--moon-icon-url: url('https://upload.wikimedia.org/wikipedia/commons/c/c4/Font_Awesome_5_solid_moon.svg'); /* custom icon url */
 	--moon-icon-size: auto;
 
