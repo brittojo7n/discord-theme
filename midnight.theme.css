@@ -57,8 +57,8 @@
 
 	/* direct messages moon icon */
 	/* change to block to show, none to hide */
-	--discord-icon: none; /* discord icon */
-	--moon-icon: block; /* moon icon */
+	--discord-icon: block; /* discord icon */
+	--moon-icon: none; /* moon icon */
 	--moon-icon-url: url('https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ac3c481f273141736_icon_clyde_black_RGB.png'); /* custom icon url */
 	--moon-icon-size: auto;
 
