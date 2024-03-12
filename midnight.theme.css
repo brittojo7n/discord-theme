@@ -58,6 +58,7 @@
 	/* direct messages moon icon */
 	/* change to block to show, none to hide */
 	--discord-icon: block; /* discord icon */
+	--moon-icon: none;
 
 	/* filter uncolorable elements to fit theme */
 	/* (just set to none, they're too much work to configure) */
